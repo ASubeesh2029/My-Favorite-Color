@@ -1,0 +1,18 @@
+/* change page style */
+body {
+    background-color: lightslategray;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+} /* for the headers */
+h1{
+    color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} /* for the body */
+p{
+    color: blueviolet;
+    font-family: fantasy;
+}
